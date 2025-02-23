@@ -11,6 +11,16 @@ body{
     background: rgb(250, 232, 173);
     padding: 20px;
 }
+.profile-section{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+.profile-img{
+    width: 150px;
+    height: 150px;
+}
 
 .profile img{
     width: 120px;
